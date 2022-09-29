@@ -1,0 +1,39 @@
+h3{
+   display: inline;
+   text-align: center; 
+    width: 1px;
+    height: 1px;
+    color:rgb(207, 190, 167)
+}
+label{
+    display: inline;
+    font-style: normal;
+    width: 40px;
+    height: 1px;
+    color: rgb(153, 127, 177);
+    width: 40px;
+    height: 44px;
+    padding: 10px;
+    margin: 10px;
+}
+input{
+    
+    border-radius: 5px;
+}
+.submit{
+    border-radius: 10px;
+    display: inline;
+    background-color: rgba(200, 167, 244, 0.883);
+    color:rgb(136, 63, 63);
+    border: 0ch;
+    padding: 10px 27px;
+    font-size: 10px;
+    cursor: pointer;
+    text-align: justi;
+    width: 100px;
+    height: 12px;
+    box-shadow: 1px 2px 5px gray;
+    margin: 5px;
+    justify-content: center;
+    font-family: arial;
+}

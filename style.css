@@ -1,0 +1,32 @@
+input{
+    border-radius: 10px;
+    display: inline;
+    text-align: center;
+    background-color: rgba(200, 167, 244, 0.883);
+    color:black;
+    border: 0ch;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    width: 150px;
+    height: 120px;
+    box-shadow: 1px 2px 5px gray;
+    margin: 10px;
+    justify-content: center;
+    font-family: arial;
+
+}
+div{
+    border:100px rgba(200, 167, 244, 0.883);
+    background-color: rgb(148, 208, 204);
+    background-size: cover;
+    padding: 100px;
+
+}
+h1{
+    text-align: center;
+}
+body{
+    text-align: center;
+}

@@ -1,0 +1,40 @@
+input{
+    border-radius: 10px;
+    display: inline;
+    text-align: center;
+    background-color: rgba(200, 167, 244, 0.883);
+    color:black;
+    border: 0ch;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    width: 150px;
+    height: 120px;
+    box-shadow: 1px 2px 5px gray;
+    margin: 10px;
+    justify-content: center;
+    font-family: arial;
+
+}
+div{
+    display: inline-block;
+}
+h3{
+    display: inline;
+   text-align: center; 
+    width: 1px;
+    height: 1px;
+    color:rgb(207, 190, 167)
+}
+h4{
+    display: inline;
+   text-align: center; 
+    width: 1px;
+    height: 1px;
+    color:rgb(207, 190, 167)
+}
+h1{
+    color: rgb(107, 107, 202);
+
+}
